@@ -67,4 +67,25 @@ https://user-images.githubusercontent.com/107954336/179151868-fa429dd1-becb-4ad5
 
 
 
+# Brushless-motor-using-Arduino
 
+### the connection should be like this
+
+<img width="592" alt="image" src="https://user-images.githubusercontent.com/107954336/179473373-0af190d1-7b43-48b0-9b7d-7e59b99bdb9f.png">
+
+and the code 
+
+```
+void setup()
+{
+   pinMode(13, OUTPUT);
+   pinMode(12, OUTPUT);
+  
+}
+void loop()
+{
+  digitalWrite(13, HIGH);
+  digitalWrite(12, LOW);
+}
+
+```
