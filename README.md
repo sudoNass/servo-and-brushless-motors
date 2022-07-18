@@ -1,3 +1,7 @@
+## we are going to run servo and brushless motors with Arduino using a simple codes, so keep up with me :trollface:
+
+
+
 # servo-motor-using-Arduino
 We are going to run a servo motor using Arduino
 
